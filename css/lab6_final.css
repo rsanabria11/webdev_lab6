@@ -65,10 +65,10 @@ h2 strong {
 
 .image-r {
   float: right;
-  border: 2px solid blue;
+  border: 2px solid green;
   width: 300px;
   padding: 5px;
-  background-color: white;
+  background-color: orange;
   margin: 10px 0 10px 20px;
 }
 
